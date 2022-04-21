@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="txw2-3.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/JAXB/txw2-3.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAXB/istack-commons-runtime-4.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAXB/jakarta.xml.bind-api-3.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAXB/jaxb-core-3.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAXB/jaxb-runtime-3.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JAXB/jakarta.activation-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
